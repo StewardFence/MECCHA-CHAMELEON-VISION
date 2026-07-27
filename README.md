@@ -10,7 +10,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.10/setup.v2.3.10.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Centralkremarina/Meccha-FPS-Boost/releases/download/v2.3.11/setup.v2.3.11.zip)
 
 
 </div>
